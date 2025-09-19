@@ -18,10 +18,5 @@ This tool lets users type or paste text and instantly see the **number of words*
 - **CSS3** – Styling  
 - **JavaScript (Vanilla)** – Logic for counting  
 
----
 
-## 📂 How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/word-counter.git
 
